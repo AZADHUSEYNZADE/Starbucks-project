@@ -1,0 +1,57 @@
+.navbar a {
+  font-size: 20px;
+}
+.textSide {
+  font-size: 55px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+span {
+  font-weight: 900;
+  color: #017143;
+}
+
+.textSide2 {
+  max-width: 600px;
+}
+
+button {
+  font-size: 15px;
+  border: none;
+  background-color: #017143;
+}
+.starbucks {
+  max-width: 340px;
+  margin-left: 30px;
+}
+.bottomImg {
+  max-width: 100px;
+  object-fit: scale-down;
+  transition: 0.5s ease;
+  margin-left: 15px;
+}
+
+.bottomImg:hover {
+  transform: translateY(-15px);
+}
+.bgDiv {
+  background-color: #017143;
+  border-top-left-radius: 80%;
+  padding-right: 100px;
+}
+.socialIcons {
+  width: 15px;
+  height: 15px;
+  filter: invert(1);
+  cursor: pointer;
+}
+
+.socialIcons img {
+  width: 15px;
+  height: 15px;
+  margin-top: 30px;
+  object-fit: scale-down;
+}
+.bottomImg {
+  cursor: pointer;
+}
